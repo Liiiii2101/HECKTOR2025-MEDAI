@@ -29,8 +29,20 @@ See: [`preprocessing.py`](preprocessing.py)
 
 ## Methods  
 
-### Task 1 – GTVp & GTVn Segmentation  
-We used **STU-Net (Small)** – see the official implementation [here](https://github.com/uni-medical/STU-Net/tree/main/nnUNet-2.2).  
+### Task 1 – GTVp & GTVn Segmentation
+
+We used **STU-Net (Small)**. The official implementation is available [here](https://github.com/uni-medical/STU-Net/tree/main/nnUNet-2.2).
+
+#### Installation
+```bash
+cd nnUNet-2.2
+pip install -e .
+
+# Plan and preprocess the dataset
+nnUNetv2_plan_and_preprocess -d <dataset_number>
+
+# Train the model
+nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
 
 ### Task 2 – Recurrence-Free Survival Prediction  
 *Details coming soon*  
