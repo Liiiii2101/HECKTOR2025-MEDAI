@@ -43,6 +43,7 @@ nnUNetv2_plan_and_preprocess -d <dataset_number>
 
 # Train the model
 nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
+```
 
 ### Task 2 – Recurrence-Free Survival Prediction  
 *Details coming soon*  
