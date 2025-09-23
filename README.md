@@ -43,7 +43,7 @@ We used **STU-Net (Small)**. The official implementation is available [here](htt
 
 #### ⚙️ Installation
 ```bash
-cd nnUNet-2.2
+cd STU-Net
 pip install -e .
 
 # Plan and preprocess the dataset
