@@ -32,7 +32,7 @@ See: [`preprocessing.py`](preprocessing.py)
 ### Task 1 – GTVp & GTVn Segmentation
 
 We used **STU-Net (Small)**. The official implementation is available [here](https://github.com/uni-medical/STU-Net/tree/main/nnUNet-2.2).
-![Segmentation architecture](assets/methods.png)
+![Segmentation architecture](assets/stunet.png)
 
 #### Installation
 ```bash
@@ -47,7 +47,7 @@ nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
 ```
 
 ### Task 2&3 – Recurrence-Free Survival Prediction  & HPV Status Prediction 
-![Network](assets/methods.png)
+![Network](assets/resnet.png)
 ---
 
 ## Docker Containers  
