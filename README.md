@@ -1,4 +1,6 @@
 # HECKTOR 2025 – Team MEDAI 🏆
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/) [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![nnU-Net](https://img.shields.io/badge/nnU--Net-2.0-orange)](https://github.com/MIC-DKFZ/nnUNet)
+
 🏆 Top-1 Solution for Segmentation and Detection of Head and Neck Cancer (HNC) Tumors  
 
 This repository contains our solutions for the three tasks of the **HECKTOR 2025 Challenge**.
