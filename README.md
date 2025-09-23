@@ -1,5 +1,8 @@
-# HECKTOR2025 – Team MEDAI  
-Solutions for the three tasks of the **HECKTOR 2025 Challenge**.  
+# HECKTOR 2025 – Team MEDAI 🏆
+🏆 Top-1 Solution for Segmentation and Detection of Head and Neck Cancer (HNC) Tumors  
+
+This repository contains our solutions for the three tasks of the **HECKTOR 2025 Challenge**.
+
 
 [👉 HECKTOR 2025 Challenge Website](https://hecktor25.grand-challenge.org/)  
 
