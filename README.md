@@ -55,9 +55,18 @@ nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
 <img src="assets/resnet.png" alt="Network" width="500"/>
 ---
 
+## Citation  
+
+If you find our work useful, please consider citing our article:  
+
+*(citation details will be updated once available)*  
+
+---
+
 ## Docker Containers  
-We provide pre-built Docker images for reproducibility.  
-If you’d like access, please reach out by email.  
+
+We provide pre-built Docker images to ensure reproducibility.  
+To request access, please contact us at: [lishancai21@gmail.com](mailto:lishancai21@gmail.com) 
 
 ---
 
