@@ -52,7 +52,7 @@ nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
 ```
 
 ### Task 2&3 – Recurrence-Free Survival Prediction  & HPV Status Prediction 
-<img src="assets/resnet.png" alt="Network" width="500"/>
+<img src="assets/resnet.png" alt="Network" width="700"/>
 
 ---
 
