@@ -66,7 +66,7 @@ If you find our work useful, please consider citing our article:
 ## Docker Containers  
 
 We provide pre-built Docker images to ensure reproducibility.  
-To request access, please contact us at: [lishancai21@gmail.com](mailto:lishancai21@gmail.com) 
+To request access, please contact us at [✉️] (mailto:lishancai21@gmail.com) 
 
 ---
 
