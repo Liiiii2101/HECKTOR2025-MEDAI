@@ -8,7 +8,7 @@ This repository contains our solutions for the three tasks of the **HECKTOR 2025
 
 ---
 
-## Overview  
+## 📖 Overview  
 This repository contains our approaches for:  
 1. **Task 1 – GTVp and GTVn Segmentation**  
 2. **Task 2 – Recurrence-Free Survival Prediction**  
@@ -18,7 +18,7 @@ For official data, task descriptions, and challenge details, please refer to the
 
 ---
 
-## Data Preprocessing  
+## 🛠️ Data Preprocessing  
 See: [`preprocessing.py`](preprocessing.py)  
 
 - All images were **resampled** to **1 × 1 × 1 mm³**  
@@ -30,7 +30,7 @@ See: [`preprocessing.py`](preprocessing.py)
 
 ---
 
-## Methods  
+## 🔬 Methods  
 
 ### Task 1 – GTVp & GTVn Segmentation
 
@@ -39,7 +39,7 @@ We used **STU-Net (Small)**. The official implementation is available [here](htt
 <img src="assets/stunet.png" alt="Segmentation Architecture" width="400"/>
 
 
-#### Installation
+#### ⚙️ Installation
 ```bash
 cd nnUNet-2.2
 pip install -e .
@@ -56,7 +56,7 @@ nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
 
 ---
 
-## Citation  
+## 📑 Citation  
 
 If you find our work useful, please consider citing our article:  
 
@@ -64,7 +64,7 @@ If you find our work useful, please consider citing our article:
 
 ---
 
-## Docker Containers  
+## 🐳 Docker Containers  
 
 We provide pre-built Docker images to ensure reproducibility.  
 To request access, please contact us by [✉️](mailto:lishancai21@gmail.com)  
