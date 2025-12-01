@@ -61,10 +61,16 @@ nnUNetv2_train <dataset_number> 3d_fullres Fold -tr STUNetTrainer_small
 ## 📑 Citation  
 
 If you find our work useful, please consider citing our article:  
-
-*(citation details will be updated once available)*  
+@inproceedings{cailess,
+  title={Less is More: Efficient PET/CT Segmentation and Multimodal Prediction of Recurrence-Free Survival and HPV Status in Head and Neck Cancer},
+  author={Cai, Lishan and Liang, Xinglong and Zhang, Tianyu and Huang, Jiaju and Tan, Tao and Yin, Yunchao},
+  booktitle={Fourth Head and Neck Cancer Tumor Lesion Segmentation, Diagnosis and Prognosis}
+}
+  
 
 ---
+
+For model weights of Task1, you can find here [here] (https://drive.google.com/drive/folders/1T3NG58F24NX4C_qCHzrst1CTNviJIyuu?usp=drive_link)
 
 ## 🐳 Docker Containers  
 
