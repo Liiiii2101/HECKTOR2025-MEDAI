@@ -70,7 +70,7 @@ If you find our work useful, please consider citing our article:
 
 ---
 
-For model weights of Task1, you can find here [here] (https://drive.google.com/drive/folders/1T3NG58F24NX4C_qCHzrst1CTNviJIyuu?usp=drive_link)
+For model weights of Task1, you can find here [here](https://drive.google.com/drive/folders/1T3NG58F24NX4C_qCHzrst1CTNviJIyuu?usp=drive_link)
 
 ## 🐳 Docker Containers  
 
