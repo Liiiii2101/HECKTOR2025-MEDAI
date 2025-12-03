@@ -36,6 +36,8 @@ See: [`preprocessing.py`](preprocessing.py)
 
 ### Task 1 – GTVp & GTVn Segmentation
 
+All the models were trained from the scratch, no pretrained weights were used in this study.
+
 We used **STU-Net (Small)**. The official implementation is available [here](https://github.com/uni-medical/STU-Net/tree/main/nnUNet-2.2).
 
 <img src="assets/stunet.png" alt="Segmentation Architecture" width="400"/>
